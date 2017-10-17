@@ -4,8 +4,10 @@ This java program test the yify API and returns requested data in JSON
 ## For more info visit : https://yts.ag/api
 
 ### Additional Libraies used : 
+
 ##### Gson https://github.com/google/gson 
 ##### OkHttp http://square.github.io/okhttp/ ( To parse JSON and convert it to java Objects and vice versa)
+##### Convert JSON to Java POJO Classes http://pojo.sodhanalibrary.com/
 
 ### Screenshots : 
 
